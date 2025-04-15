@@ -9,6 +9,7 @@ class Estudante(BaseModel):
     curso: str
     ativo: bool
 
+
 @app.get("/hellowworld")
 async def root():
     return {"message": "Hello World"}
