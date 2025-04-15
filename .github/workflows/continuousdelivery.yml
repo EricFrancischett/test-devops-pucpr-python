@@ -52,4 +52,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ericmfrancischett/test-cd-python-pucpr:latest
+          tags: ericmfrancischett/testevideoaula:latest
